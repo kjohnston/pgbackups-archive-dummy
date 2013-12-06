@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "1.9.3"
+ruby "2.0.0"
 
 gem "newrelic_rpm",      "~> 3.6.3.104"
 gem "pg",                "~> 0.15.1"
